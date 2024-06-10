@@ -1,0 +1,11 @@
+/* Author: Subekti */
+/* GitHub: https://github.com/Bektiman/ */
+
+
+#judul {
+    border-radius: 0.5rem 0.5rem 0 0; /* Menghilangkan round bottom pada class judul */
+}
+#panel {
+    border-radius: 0 0 0.75rem 0.75rem; /* Menghilangkan round top pada class panel kalkulator */
+}
+
